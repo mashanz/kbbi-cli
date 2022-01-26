@@ -9,7 +9,7 @@ npx kbbi-cli <cari_kata>
 ## install KBBI CLI
 
 ```
-npm -i -g kbbi-cli
+npm i -g kbbi-cli
 ```
 
 ## search for a word in KBBI

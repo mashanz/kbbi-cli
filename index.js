@@ -4,11 +4,14 @@ const args = process.argv.slice(2);
 
 if (args[0] === "-h" || args.length === 0) {
   console.log(`
-    Usage:
+
+    kbbi-cli - Kamus Besar Bahasa Indonesia CLI (https://kbbi.kemdikbud.go.id/)
+
+    Penggunaan:
 
         kbbi-cli <cari_kata>
 
-    options:
+    opsi:
 
         -h: tampilkan bantuan
         -v: tampilkan versi
