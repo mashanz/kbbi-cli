@@ -1,6 +1,6 @@
 {
   "name": "kbbi-cli",
-  "version": "0.0.1-dev.2",
+  "version": "0.0.1",
   "description": "KBBI CLI",
   "main": "index.js",
   "repository": "https://github.com/mashanz/kbbi-cli.git",
@@ -12,5 +12,9 @@
   "license": "MIT",
   "bin": {
     "kbbi-cli": "index.js"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cheerio": "^1.0.0-rc.10"
   }
 }
