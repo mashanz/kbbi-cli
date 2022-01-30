@@ -1,4 +1,6 @@
-# KBBI CLI
+# KBBI CLI (Kamus Besar Bahasa Indonesia versi Command Line)
+
+![SC](sc.jpeg)
 
 ## basic usage
 
