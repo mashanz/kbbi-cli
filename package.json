@@ -1,6 +1,6 @@
 {
   "name": "kbbi-cli",
-  "version": "0.0.1",
+  "version": "0.0.2-rc.1",
   "description": "KBBI CLI",
   "main": "index.js",
   "repository": "https://github.com/mashanz/kbbi-cli.git",
